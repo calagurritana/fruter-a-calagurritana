@@ -1,14 +1,50 @@
 # Segunda campaña Meta Ads: cama Nino de pana (RiojoHome)
 
-Preparado el 18-11-2026. Datos sacados de Shopify (www.riojohome.com) de los últimos 90 días.
-No se pudieron leer los datos internos de Meta (gasto, CPM, CTR): la herramienta Adspirer ha agotado
-sus consultas del mes (se renuevan el 10-12-2026).
+Preparado el 18-11-2026 con datos de Shopify (www.riojohome.com, últimos 90 días) y de Meta Ads.
+
+## ✅ Estado: campaña PUBLICADA el 18-11-2026
+
+Cuenta publicitaria **Riojohome** (2816733155395657), la que tiene el píxel 1863401214833955.
+
+| Nivel | Nombre | ID |
+|---|---|---|
+| Campaña | NINO-PANA \| Ventas \| ES \| Nov-Dic 26. Ventas, 20 €/día de presupuesto de campaña, puja por menor coste | 52571512716856 |
+| Conjunto | Amplio \| España \| 25+ \| Compra. Evento Compra del píxel, España, 25–65, público Advantage+, ubicaciones automáticas | 52571512725656 |
+| Anuncio | AD1 Producto-Invierno: cama sola, 2 textos y 3 titulares | 52571512962456 |
+| Anuncio | AD2 Lavable-Golden: golden en la terraza, 2 textos y 3 titulares | 52571512962856 |
+| Anuncio | AD3 Carrusel: 3 fotos | 52571512964456 |
+
+- Enlace: ficha de la variante de pana (`?variant=54000292987216`). UTM:
+  `utm_source=meta&utm_medium=paid&utm_campaign=nino-pana-ventas&utm_content={{ad.name}}`.
+- Botón: "Comprar". Página de Facebook RiojoHome e Instagram @riojohome_.
+- **Lo que falta respecto al plan:**
+  - No se pudo usar la foto del bulldog: Meta no la pudo descargar y la subida manual no tenía permiso.
+  - Canarias, Ceuta y Melilla no están excluidas.
+  - No hay Reel.
+  - Los arreglos de la tienda (sección 3) siguen pendientes.
 
 ---
 
 ## 1. Análisis de la primera campaña: `flame-heater-ventas`
 
 Producto: Flame Heater (calefactor efecto chimenea), 39,99 €.
+
+### Lo que ve Meta
+
+La campaña es una **publicación promocionada** ("🎄 Esta Navidad, regala calor."). Está en **otra
+cuenta publicitaria (266863922595644), sin negocio ni píxel**, y sigue **activa** a 2 €/día desde el 11-11-2026.
+
+| Métrica | Valor |
+|---|---|
+| Objetivo | **Interacción** (no ventas) |
+| Gasto | 14,01 € |
+| Impresiones / alcance | 4.778 / 3.007 personas |
+| Clics en el enlace | 85 (0,16 € por clic) |
+| Visitas a la página, carritos, compras | **No se miden**: esa cuenta no tiene el píxel |
+
+**Conclusión:** Meta repartió el anuncio entre gente que da "me gusta" y hace clic, no entre gente
+que compra. De 85 clics, Shopify solo registró unas 36 visitas y ninguna compra. Con un objetivo de
+interacción y sin píxel, Meta no puede aprender quién compra.
 
 ### Lo que ve Shopify
 
