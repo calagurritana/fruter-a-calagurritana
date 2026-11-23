@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-23T00:00:00.000Z",
+  "settings": {
+    "name": "RiojoHome",
+    "tagline": "La frescura de la huerta riojana, en tu casa",
+    "address": "Calahorra, La Rioja",
+    "hours": "Lunes a sábado · 9:00–14:00 y 17:00–20:30",
+    "phone": "",
+    "email": "frutdriacalagurritana@gmail.com",
+    "whatsapp": "",
+    "delivery": true,
+    "pickup": true,
+    "deliveryFee": 2.5,
+    "freeDeliveryFrom": 30,
+    "minOrder": 10,
+    "deliveryInfo": "Reparto a domicilio en Calahorra y alrededores."
+  },
+  "categories": [
+    {
+      "id": "frutas",
+      "name": "Frutas",
+      "emoji": "🍎",
+      "hue": 10
+    },
+    {
+      "id": "verduras",
+      "name": "Verduras y hortalizas",
+      "emoji": "🥦",
+      "hue": 105
+    },
+    {
+      "id": "despensa",
+      "name": "Despensa riojana",
+      "emoji": "🫙",
+      "hue": 38
+    },
+    {
+      "id": "bodega",
+      "name": "Bodega",
+      "emoji": "🍷",
+      "hue": 345
+    }
+  ],
+  "products": [
+    {
+      "id": "pera-rincon",
+      "name": "Pera de Rincón de Soto",
+      "categoryId": "frutas",
+      "price": 2.95,
+      "unit": "kg",
+      "origin": "Rincón de Soto · DOP",
+      "description": "Pera conferencia jugosa y dulce, con Denominación de Origen.",
+      "emoji": "🍐",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "manzana-reineta",
+      "name": "Manzana reineta",
+      "categoryId": "frutas",
+      "price": 2.4,
+      "unit": "kg",
+      "origin": "La Rioja",
+      "description": "Ácida y aromática. Ideal para asar o para compota.",
+      "emoji": "🍏",
+      "available": true
+    },
+    {
+      "id": "mandarina",
+      "name": "Mandarina",
+      "categoryId": "frutas",
+      "price": 1.95,
+      "oldPrice": 2.4,
+      "unit": "kg",
+      "origin": "Castellón",
+      "description": "De temporada, fácil de pelar y sin pepitas.",
+      "emoji": "🍊",
+      "available": true
+    },
+    {
+      "id": "platano",
+      "name": "Plátano de Canarias",
+      "categoryId": "frutas",
+      "price": 2.6,
+      "unit": "kg",
+      "origin": "Canarias · IGP",
+      "emoji": "🍌",
+      "available": true
+    },
+    {
+      "id": "uva",
+      "name": "Uva blanca",
+      "categoryId": "frutas",
+      "price": 2.9,
+      "unit": "kg",
+      "origin": "La Rioja",
+      "emoji": "🍇",
+      "available": true
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "categoryId": "frutas",
+      "price": 3.2,
+      "unit": "kg",
+      "emoji": "🥝",
+      "available": true
+    },
+    {
+      "id": "coliflor",
+      "name": "Coliflor de Calahorra",
+      "categoryId": "verduras",
+      "price": 2.2,
+      "unit": "ud",
+      "origin": "Calahorra · IGP",
+      "description": "Blanca, compacta y de sabor suave. La de siempre.",
+      "emoji": "🥦",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "pimiento",
+      "name": "Pimiento rojo riojano",
+      "categoryId": "verduras",
+      "price": 2.9,
+      "unit": "kg",
+      "origin": "La Rioja",
+      "description": "Carnoso, perfecto para asar.",
+      "emoji": "🫑",
+      "available": true
+    },
+    {
+      "id": "alcachofa",
+      "name": "Alcachofa",
+      "categoryId": "verduras",
+      "price": 3.5,
+      "unit": "kg",
+      "origin": "Calahorra",
+      "emoji": "🌱",
+      "available": true
+    },
+    {
+      "id": "borraja",
+      "name": "Borraja",
+      "categoryId": "verduras",
+      "price": 2.5,
+      "unit": "manojo",
+      "origin": "La Rioja",
+      "emoji": "🥬",
+      "available": true
+    },
+    {
+      "id": "tomate",
+      "name": "Tomate de huerta",
+      "categoryId": "verduras",
+      "price": 2.8,
+      "unit": "kg",
+      "origin": "La Rioja",
+      "emoji": "🍅",
+      "available": true
+    },
+    {
+      "id": "champinon",
+      "name": "Champiñón",
+      "categoryId": "verduras",
+      "price": 1.9,
+      "unit": "bandeja",
+      "origin": "Pradejón",
+      "description": "Bandeja de 500 g.",
+      "emoji": "🍄",
+      "available": true
+    },
+    {
+      "id": "patata",
+      "name": "Patata",
+      "categoryId": "verduras",
+      "price": 1.2,
+      "unit": "kg",
+      "emoji": "🥔",
+      "available": true
+    },
+    {
+      "id": "cebolla",
+      "name": "Cebolla",
+      "categoryId": "verduras",
+      "price": 1.4,
+      "unit": "kg",
+      "emoji": "🧅",
+      "available": true
+    },
+    {
+      "id": "huevos",
+      "name": "Huevos camperos",
+      "categoryId": "despensa",
+      "price": 3.2,
+      "unit": "docena",
+      "origin": "La Rioja",
+      "emoji": "🥚",
+      "available": true
+    },
+    {
+      "id": "pimientos-asados",
+      "name": "Pimientos asados",
+      "categoryId": "despensa",
+      "price": 4.9,
+      "unit": "tarro",
+      "origin": "La Rioja",
+      "description": "Asados al horno de leña y pelados a mano.",
+      "emoji": "🫙",
+      "featured": true,
+      "available": true
+    },
+    {
+      "id": "nueces",
+      "name": "Nueces",
+      "categoryId": "despensa",
+      "price": 7.5,
+      "unit": "kg",
+      "emoji": "🌰",
+      "available": true
+    },
+    {
+      "id": "aceite",
+      "name": "Aceite de oliva virgen extra",
+      "categoryId": "despensa",
+      "price": 12.9,
+      "unit": "botella",
+      "origin": "La Rioja · DOP",
+      "description": "Botella de 1 litro.",
+      "emoji": "🫒",
+      "available": true
+    },
+    {
+      "id": "rioja-crianza",
+      "name": "Vino Rioja Crianza",
+      "categoryId": "bodega",
+      "price": 9.5,
+      "unit": "botella",
+      "origin": "DOCa Rioja",
+      "emoji": "🍷",
+      "available": true
+    },
+    {
+      "id": "rioja-joven",
+      "name": "Vino Rioja Joven",
+      "categoryId": "bodega",
+      "price": 5.5,
+      "unit": "botella",
+      "origin": "DOCa Rioja",
+      "emoji": "🍷",
+      "available": false
+    }
+  ]
+}
